@@ -1,1 +1,24 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Virtual env
+venv/
+ENV/
+.venv/
+
+# Environment variables
 .env
+
+# PyCharm project
+.idea/
+
+# VSCode project settings
+.vscode/
+
+# OS specific junk
+.DS_Store
+Thumbs.db
