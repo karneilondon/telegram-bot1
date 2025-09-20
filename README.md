@@ -31,7 +31,7 @@ This is my first Telegram Bot built with Python 🐍
 ## Enhance your Telegram Bot with Abacus.AI ChatLLM
 
 Enhance your Telegram bot with Abacus.AI ChatLLM.  
-Access multiple leading AI models — including those from OpenAI, Anthropic, Mistral, and Cohere — through a single integration.  
+Access multiple leading AI models — including those from OpenAI, Anthropic, Google, xAI, and more — all from a single platform.    
 All starting at only $10 per month.
 
 Get started here: [https://chatllm.abacus.ai/jSzQQhtKyr](https://chatllm.abacus.ai/jSzQQhtKyr)  
