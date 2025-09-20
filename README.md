@@ -26,7 +26,14 @@ This is my first Telegram Bot built with Python 🐍
    ```bash
     python bot.py    
 
+## 🤝 Affiliate Link
 
+This project uses [Abacus.AI](https://chatllm.abacus.ai/jSzQQhtKyr) for LLM features.  
+If you'd like to explore Abacus yourself, you can sign up using my affiliate link below:  
+
+👉 [Join Abacus.AI here](https://chatllm.abacus.ai/jSzQQhtKyr)
+
+*(This is an affiliate link — it supports me at no extra cost to you.)*
 
 
 
